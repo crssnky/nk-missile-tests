@@ -1,23 +1,111 @@
 {
-	"er-scud": {"name": "スカッドER", "type": "MRBM"},
-	"hwasong-12": {"name": "火星12号", "type": "IRBM"},
-	"hwasong-14": {"name": "火星14号", "type": "ICBM"},
-	"hwasong-15": {"name": "火星15号", "type": "ICBM"},
-	"kn-02": {"name": "KN-02", "type": "SRBM"},
-	"kn-23": {"name": "KN-23", "type": "SRBM"},
-	"kn-24": {"name": "KN-24", "type": "SRBM"},
-	"kn-25": {"name": "KN-25", "type": "SRBM"},
-	"musudan": {"name": "ムスダン", "type": "IRBM"},
-	"nodong": {"name": "ノドン", "type": "MRBM"},
-	"pukguksong-1": {"name": "北極星1号", "type": "SLBM"},
-	"pukguksong-2": {"name": "北極星2号", "type": "MRBM"},
-	"pukguksong-3": {"name": "北極星3号", "type": "SLBM"},
-	"scud-b": {"name": "スカッドB", "type": "SRBM"},
-	"scud-b-marv": {"name": "スカッドB MaRV", "type": "SRBM"},
-	"scud-c": {"name": "スカッドC", "type": "SRBM"},
-	"scud-c-marv": {"name": "スカッドC MaRV", "type": "SRBM"},
-	"taepodong-1": {"name": "テポドン1号", "type": "SLV"},
-	"unha": {"name": "銀河", "type": "SLV"},
-	"unha-3": {"name": "銀河3号", "type": "SLV"},
-	"unknown": {"name": "不明", "type": "不明"}
+  "root": {
+    "missiles": [
+      {
+        "key": "er-scud",
+        "name": "スカッドER",
+        "type": "MRBM"
+      },
+      {
+        "key": "hwasong-12",
+        "name": "火星12号",
+        "type": "IRBM"
+      },
+      {
+        "key": "hwasong-14",
+        "name": "火星14号",
+        "type": "ICBM"
+      },
+      {
+        "key": "hwasong-15",
+        "name": "火星15号",
+        "type": "ICBM"
+      },
+      {
+        "key": "kn-02",
+        "name": "KN-02",
+        "type": "SRBM"
+      },
+      {
+        "key": "kn-23",
+        "name": "KN-23",
+        "type": "SRBM"
+      },
+      {
+        "key": "kn-24",
+        "name": "KN-24",
+        "type": "SRBM"
+      },
+      {
+        "key": "kn-25",
+        "name": "KN-25",
+        "type": "SRBM"
+      },
+      {
+        "key": "musudan",
+        "name": "ムスダン",
+        "type": "IRBM"
+      },
+      {
+        "key": "nodong",
+        "name": "ノドン",
+        "type": "MRBM"
+      },
+      {
+        "key": "pukguksong-1",
+        "name": "北極星1号",
+        "type": "SLBM"
+      },
+      {
+        "key": "pukguksong-2",
+        "name": "北極星2号",
+        "type": "MRBM"
+      },
+      {
+        "key": "pukguksong-3",
+        "name": "北極星3号",
+        "type": "SLBM"
+      },
+      {
+        "key": "scud-b",
+        "name": "スカッドB",
+        "type": "SRBM"
+      },
+      {
+        "key": "scud-b-marv",
+        "name": "スカッドB MaRV",
+        "type": "SRBM"
+      },
+      {
+        "key": "scud-c",
+        "name": "スカッドC",
+        "type": "SRBM"
+      },
+      {
+        "key": "scud-c-marv",
+        "name": "スカッドC MaRV",
+        "type": "SRBM"
+      },
+      {
+        "key": "taepodong-1",
+        "name": "テポドン1号",
+        "type": "SLV"
+      },
+      {
+        "key": "unha",
+        "name": "銀河",
+        "type": "SLV"
+      },
+      {
+        "key": "unha-3",
+        "name": "銀河3号",
+        "type": "SLV"
+      },
+      {
+        "key": "unknown",
+        "name": "不明",
+        "type": "不明"
+      }
+    ]
+  }
 }
